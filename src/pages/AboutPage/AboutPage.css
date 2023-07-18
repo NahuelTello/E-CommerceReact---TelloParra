@@ -1,0 +1,9 @@
+.Container{
+    margin: auto;
+    justify-content: center;
+}
+
+@font-face {
+    font-family: 'Monserrat';
+    src: url('../../assets/fonts/Montserrat/static/Montserrat-Regular.ttf') format('truetype');
+}

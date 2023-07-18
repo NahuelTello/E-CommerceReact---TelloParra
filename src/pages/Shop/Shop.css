@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background-color: white;
+}
+.FormContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    background-color: white;
+}
+
+.btnSendAction {
+    background: white;
+    color: #2a2a2a;
+    height: 54px;
+    width: 400px;
+    border-radius: 8px;
+    font-size: 18px;
+    border: none;
+    margin: 10px;
+}
+
+.btnSendAction:hover {
+    color: #FFF;
+    background: #2a2a2a;
+}
